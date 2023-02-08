@@ -1,0 +1,16 @@
+id: IB1C81706
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:10:09.315602
+last_modified: 2023-02-08 15:10:09.315740
+source_metadata:
+  title: Laṅkāvatārasūtra
+  language: zh
+bases:
+  ABC6:
+    base_file: ABC6.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
